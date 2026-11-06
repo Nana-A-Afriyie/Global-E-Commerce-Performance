@@ -7,6 +7,8 @@ This project focuses on analyzing a Global E-Commerce dataset to evaluate the co
 The project involves data cleaning and preparation using Microsoft Excel and SQL Server, followed by data analysis and visualization using Microsoft Power BI. The analysis focuses on key performance indicators (KPIs), including total sales, total profit, total orders, and average discount.
 Interactive dashboards were developed to present important business insights, identify high-performing products and customers, examine monthly sales trends, and evaluate regional and category performance.
 The overall aim of this project is to transform raw e-commerce data into meaningful insights that can help management make informed, data-driven business decisions. 
+<img width="1672" height="941" alt="Global E-Commerce Sales Dashboard" src="https://github.com/user-attachments/assets/d84dedf4-d993-447f-b999-3902c0d23a23" />
+<img width="1672" height="941" alt="Global E-Commerce Executive Dashboard (1)" src="https://github.com/user-attachments/assets/98853c9e-3f8f-4806-a4fe-075049b43042" />
 
 **Problem Statemt — Global E-Commerce Data Analysis**
 
@@ -153,5 +155,5 @@ The analysis provides management with a clearer understanding of sales performan
 
 
 
-<img width="1672" height="941" alt="Global E-Commerce Sales Dashboard" src="https://github.com/user-attachments/assets/d84dedf4-d993-447f-b999-3902c0d23a23" />
-<img width="1672" height="941" alt="Global E-Commerce Executive Dashboard (1)" src="https://github.com/user-attachments/assets/98853c9e-3f8f-4806-a4fe-075049b43042" />
+[GLOBAL E-COMMERCE INTERNSHIP NAA.zip](https://github.com/user-attachments/files/34495305/GLOBAL.E-COMMERCE.INTERNSHIP.NAA.zip)
+
