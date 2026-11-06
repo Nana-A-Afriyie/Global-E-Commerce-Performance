@@ -1,18 +1,22 @@
 # Global-E-Commerce-Performance
 This project analyzes global e-commerce data to uncover sales trends, profitability, customer behavior, and product performance. Data was cleaned and transformed using Excel and SQL, then explored through Power BI. The analysis identified top products, regional performance, and business opportunities to support smarter decisions and growth overall.
-GLOBAL E-COMMERCE FINDINGS AND RECOMMENDATIONS
-1. Introduction
+
+**1. Introduction**
 The e-commerce industry has experienced significant growth, creating large volumes of transactional data that businesses can use to understand customer purchasing behavior, monitor sales performance, and improve business operations.
 This project focuses on analyzing a Global E-Commerce dataset to evaluate the company's sales and profitability across different geographical regions, markets, product categories, and customer segments.
 The project involves data cleaning and preparation using Microsoft Excel and SQL Server, followed by data analysis and visualization using Microsoft Power BI. The analysis focuses on key performance indicators (KPIs), including total sales, total profit, total orders, and average discount.
 Interactive dashboards were developed to present important business insights, identify high-performing products and customers, examine monthly sales trends, and evaluate regional and category performance.
 The overall aim of this project is to transform raw e-commerce data into meaningful insights that can help management make informed, data-driven business decisions. 
-Problem Statement — Global E-Commerce Data Analysis
+
+**Problem Statemt — Global E-Commerce Data Analysis**
+
 The global e-commerce business generates a large volume of sales transactions across different regions, markets, product categories, and customer segments. However, without proper analysis, it can be difficult for management to understand which products and markets contribute most to revenue and profitability.
 The business needs to identify its top-performing products and customers, evaluate sales trends, compare regional and market performance, and investigate categories or sub-categories that generate low or negative profit.
 Additionally, inconsistent data formats, missing values, duplicate records, and incorrect data types can affect the accuracy and reliability of business reporting.
 This project addresses these challenges by cleaning and preparing the e-commerce dataset, analyzing key performance indicators using SQL and Excel, and developing an interactive Power BI dashboard to support data-driven business decisions.
-Key Business Questions
+
+**Key Business Questions**
+
 1.	What are the company's total sales, total profit, total orders, and average discount?
 2.	Which regions and markets generate the highest sales?
 3.	Which product categories contribute most to sales and profit?
@@ -21,7 +25,8 @@ Key Business Questions
 6.	Which sub-categories generate the highest and lowest profits?
 7.	How do Consumer, Corporate, and Home Office segments contribute to sales?
 
-2. Project Objectives
+2.** Project Objectives**
+ 
 The main objective of this project is to analyze global e-commerce sales data and generate useful business insights through data cleaning, analysis, and visualization.
 The specific objectives are:
 1.	Clean and prepare the dataset: Identify and address data-quality issues, including missing values, inconsistent formatting, duplicate records, and incorrect data types.
@@ -34,7 +39,9 @@ The specific objectives are:
 8.	Assess sub-category profitability: Identify profitable and loss-making product sub-categories.
 9.	Develop interactive dashboards: Use Power BI to create visual reports with KPI cards, charts, slicers, and interactive filters.
 10.	Provide business recommendations: Use the findings to suggest ways to improve profitability, customer retention, sales performance, and business operations.
-3. Data Description
+    
+**3. Data Description**
+
 The dataset used for this project is a Global E-Commerce transactional dataset containing information about customer orders, products, sales, shipping, and profitability across different markets and geographical regions.
 The dataset is structured at the transaction or order-line level, meaning that individual records represent products associated with customer orders. An order may therefore appear in multiple rows when it contains multiple products.
 The dataset contains the following main categories of information:
@@ -110,7 +117,8 @@ The Products and Customer Analysis dashboard identifies leading products, the to
 Overall, the dashboard transforms the raw e-commerce dataset into meaningful visual insights that help management monitor business performance, identify profitable markets and products, understand customer contributions, and make informed decisions to improve sales and profitability.
 
 
-Key Findings — Global E-Commerce Analysis
+**Key Findings — Global E-Commerce Analysis**
+
 1.	Overall business performance: The dashboard reports approximately $12.64 million in total sales and $1.47 million in total profit, demonstrating that the business generates substantial revenue and positive overall profitability.
 2.	Product category performance: Technology is the leading category by sales, followed by Furniture and Office Supplies. Technology also generates the highest profit among the three categories.
 3.	Regional performance: Central is the strongest sales region in the dashboard, followed by South and North. This indicates that sales performance varies considerably across geographical regions.
@@ -120,7 +128,9 @@ Key Findings — Global E-Commerce Analysis
 7.	Customer performance: The Top 10 Customers visual demonstrates that some customers contribute more sales than others, providing an opportunity for customer retention and targeted marketing.
 8.	Sub-category profitability: Copiers, Phones, and Bookcases are among the stronger profit contributors, while Tables shows a negative profit contribution and requires further investigation.
 9.	Discount management: The average discount is approximately 14.53%. Management should investigate whether higher discounts are associated with lower profit margins.
-Business Recommendations
+    
+**Business Recommendations**
+
 Based on the findings from the Global E-Commerce dashboard, the following recommendations are proposed:
 1. Strengthen High-Performing Markets
 The business should maintain its presence in APAC, EU, US, and LATAM because these markets contribute significantly to total sales. Marketing strategies should be tailored to customer demand in each market.
@@ -136,7 +146,9 @@ Management should evaluate the relationship between discounts and profit margins
 Historical monthly sales patterns should be monitored to support inventory planning, marketing campaigns, and demand forecasting.
 7. Monitor Regional Performance
 Regions with lower sales should be investigated to identify opportunities for improved marketing, distribution, and customer engagement.
-Conclusion
+
+**Conclusion**
+
 The analysis provides management with a clearer understanding of sales performance, customer behavior, product profitability, and market contribution. The interactive Power BI dashboard can support ongoing performance monitoring and more informed business decisions.
 
 
